@@ -16,6 +16,8 @@
 - :office: &nbsp;I'm currently working at [Red Hat](https://redhat.com)
 - :speech_balloon: &nbsp;I like to talk about **Ansible**, **Automation** and **FOSS** projects
 - :computer: &nbsp;Connect with me on [![Linkedin Badge](https://img.shields.io/badge/-seansulliv-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seansulliv/)](https://www.linkedin.com/in/seansulliv)
+- :page_facing_up: Checkout my [Ansible Blogs on filters and AAP workflow creation](https://www.ansible.com/blog/author/sean-sullivan)
+- :page_facing_up: Checkout my [Red Hat Blogs on Automating Execution Environments](https://www.redhat.com/architect/users/sean-sullivan)
 - :page_facing_up: Checkout my [resume](https://sean-m-sullivan.github.io/)
 - :technologist: &nbsp;Checkout my Book [Demystifying Ansible Automation Platform](https://www.packtpub.com/product/demystifying-ansible-automation-platform/9781803244884)
 <p align="middle">
